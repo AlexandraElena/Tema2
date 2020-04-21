@@ -4,6 +4,8 @@ import java.util.HashSet;
 
 public class Produs<Int> {
 
+    //in clo de enum ai nevoie de 2 subclase, una Aliment si una AparatElectrocasnic
+    //fiecare subclasa are la randul ei anumite caracteristici(atribute)
     enum Tip {
         Aliment, Altele
     }
